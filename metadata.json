@@ -1,0 +1,8 @@
+{
+  "name": "Xtha saksham ",
+  "description": "A sophisticated messaging app that works offline using LocalStorage and syncs with Gemini when online. Features two-way conversations, voice messages, file sharing, and dark mode.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
